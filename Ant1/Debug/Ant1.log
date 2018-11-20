@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Ant1.cpp
+d:\repos\ant1\ant1\ant1.cpp(51): warning C4101: 'f': unreferenced local variable
+d:\repos\ant1\ant1\ant1.cpp(293): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ant1.vcxproj -> D:\repos\Ant1\Debug\Ant1.exe
